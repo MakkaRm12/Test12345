@@ -17,4 +17,5 @@ string[] ReadString (string[] massive)
    count++;
    }
  }
+ return array1;
 }
