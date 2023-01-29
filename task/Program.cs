@@ -8,3 +8,13 @@ string[] array1 = new string [array.Length];
 
 string[] ReadString (string[] massive)
 {
+    int count = 0;
+ for(int i = 0; i < massive.Length; i++)
+ {
+ if(massive[i].Length <= 3)
+   {
+   array1[count] = massive[i];
+   count++;
+   }
+ }
+}
