@@ -19,3 +19,5 @@ string[] ReadString (string[] massive)
  }
  return array1;
 }
+
+string[] result = ReadString(array);
