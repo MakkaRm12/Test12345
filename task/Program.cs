@@ -3,6 +3,10 @@
 // исключительно массивами.
 
 
+
+
+
+
 string[] array = {"hello", "2", "world", ":-)"};
 string[] array1 = new string [array.Length];
 
@@ -22,3 +26,7 @@ string[] ReadString (string[] massive)
 
 string[] result = ReadString(array);
 Console.WriteLine($"{string.Join(" ", result)}");
+
+
+
+

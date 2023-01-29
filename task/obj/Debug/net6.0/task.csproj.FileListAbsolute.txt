@@ -1,0 +1,15 @@
+/Users/ruslan/Desktop/Test1/task/bin/Debug/net6.0/task
+/Users/ruslan/Desktop/Test1/task/bin/Debug/net6.0/task.deps.json
+/Users/ruslan/Desktop/Test1/task/bin/Debug/net6.0/task.runtimeconfig.json
+/Users/ruslan/Desktop/Test1/task/bin/Debug/net6.0/task.dll
+/Users/ruslan/Desktop/Test1/task/bin/Debug/net6.0/task.pdb
+/Users/ruslan/Desktop/Test1/task/obj/Debug/net6.0/task.csproj.AssemblyReference.cache
+/Users/ruslan/Desktop/Test1/task/obj/Debug/net6.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslan/Desktop/Test1/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
+/Users/ruslan/Desktop/Test1/task/obj/Debug/net6.0/task.AssemblyInfo.cs
+/Users/ruslan/Desktop/Test1/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
+/Users/ruslan/Desktop/Test1/task/obj/Debug/net6.0/task.dll
+/Users/ruslan/Desktop/Test1/task/obj/Debug/net6.0/refint/task.dll
+/Users/ruslan/Desktop/Test1/task/obj/Debug/net6.0/task.pdb
+/Users/ruslan/Desktop/Test1/task/obj/Debug/net6.0/task.genruntimeconfig.cache
+/Users/ruslan/Desktop/Test1/task/obj/Debug/net6.0/ref/task.dll
