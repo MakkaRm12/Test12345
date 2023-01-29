@@ -6,3 +6,5 @@
 string[] array = {"hello", "2", "world", ":-)"};
 string[] array1 = new string [array.Length];
 
+string[] ReadString (string[] massive)
+{
