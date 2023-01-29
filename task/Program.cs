@@ -21,3 +21,4 @@ string[] ReadString (string[] massive)
 }
 
 string[] result = ReadString(array);
+Console.WriteLine($"{string.Join(" ", result)}");
